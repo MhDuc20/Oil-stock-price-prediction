@@ -66,7 +66,7 @@ pip install -r requirements.txt
 └── requirements.txt
 ```
 
-## Cách sử dụng
+## Quá trình
 
 ### 1. Chuẩn bị dữ liệu
 
@@ -119,9 +119,8 @@ results_df, transactions_df, final_return = evaluate_model_with_trading(
 ```
 
 ## Kết quả
-Hệ thống giao dịch được đánh giá thông qua các chỉ số:
+Hệ thống giao dịch được đánh giá thông qua các chỉ số trong 4 năm(2020-2025)
 Thống kê hiệu suất giao dịch:
-Lợi nhuận cuối cùng: 133.42%
 Mức sụt giảm tối đa: -33.54%
 Tổng kết chiến lược giao dịch:
 Lợi nhuận cuối cùng: 133.42%
